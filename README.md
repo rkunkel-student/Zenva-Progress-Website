@@ -18,7 +18,7 @@ Game Design:
 * Intro to Game Development - Completed 
 * Unity 101 - Game Development and C# Foundations - Completed
 * Learn Python Programming by Making a Game - Completed 
-* Intro to Game Development with Unity 
+* Intro to Game Development with Unity - Completed
 * Create Your First 3D Game with Unity
 
 One-Offs:
@@ -49,3 +49,10 @@ I see... It's not really a course bundle but a mapping of what order to take cou
 
 At this time the next bundle / course path I'm inclined to take is the Unity Dev Mini-Degree: https://academy.zenva.com/my-courses/#unity-game-development-mini-degree
 
+--
+
+29/04/2020 - dd/mm/yyyy - Starting "Create Your First 3D Game with Unity" - https://academy.zenva.com/course/create-your-first-platformer/
+
+Based on the URL it's going to cover how to create a 3D platformer in Unity. I'd like to just showcase the various projects I've been involved with so this should prove to be a useful review of vectors and colliders.
+
+If I'm lucky this might even cover quaternions
